@@ -182,7 +182,7 @@ const common =
 
 let wordmap = {}
 let words = []
-let socket = new WebSocket('ws://206.189.210.207:80')
+let socket = new WebSocket('ws://reddit-wordcloud.url.chat')
 
 socket.onmessage = (event) => {
 

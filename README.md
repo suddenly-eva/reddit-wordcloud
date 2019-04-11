@@ -1,4 +1,5 @@
-# reddit-wordcloud-front
+# reddit-wordcloud
+A realtime wordcloud for Reddit.
 
 ## Project setup
 ```
@@ -18,4 +19,3 @@ yarn run build
 ### Lints and fixes files
 ```
 yarn run lint
-```
